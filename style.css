@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'bootstrap-icons';
+    src: url('../fonts/bootstrap-icons.woff'), url('../fonts/bootstrap-icons.woff2')
+}
+
+.box {
+    width: 1000PX;
+    height: auto;
+    border: 2px solid #23B7E1;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 9px;
+}
+
+body {
+    background-image: url(/images.jfif);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.picture {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #23B7E1;
+    text-decoration: 1px underline solid #23B7E1;
+    text-align: center;
+    font-weight: bold;
+}
+
+li a {
+    color: #999999;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a i {
+    color: white;
+    padding: 2px;
+    background-color: #23B7E1;
+    border-radius: 5px;
+}
+
+header p {
+    color: #23B7E1;
+}
+
+
+/* .smoke {
+    background-color: whitesmoke;
+} */
+
+.smoke i {
+    color: white;
+}
+
+h5 {
+    text-decoration: 1px solid underline white;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #23B7E1;
+    color: white;
+}
